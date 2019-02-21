@@ -7,28 +7,85 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <div class="post-content e-content">
+    <p>We are a company of enthusiast’s urging to innovate and do something different in audio and video industry.</p>
+
+  <p>“Varpas” - a Sanskrit word of Vedic origin meaning “image”  or “design” signifies the company’s effort to
+    help academicians and clients communicate with their subjects in the preparation and delivery of quality
+    aural and visual content for effective communication.</p>
+
+  <p>Incidentally, the term, Varpas represents the sectors we operate - Video, Audio, Radio, Product development,
+    Acoustics, and Surveillance.</p>
+
+  <p>Varpas is a team of highly committed and qualified professionals working in sync with the state-of-the-art
+    technology for delivering high quality solutions for their clients.</p>
+  </div>
+
+  <h1>Modes of service</h1>
+    <div class="post-content e-content">
+      In the endeavor for providing quality service confirming to the industrial standards and practices, Varpas operates in its field of interest in the following modes.
+
+      •	Consultancy				•	Sales and support
+      •	Turnkey solutions			•	Design and development of Sub-systems
+      •	System Integration		•	Training
+      •	Operation & Maintenance
+
+    </div>
+
+  <h1>Sectors</h1>
+    <div class="post-content e-content">
+      Varpas offers its professional acoustics, Audio, Video and RF engineering services in the following sectors:
+<ul>
+<li>Auditoriums</li>
+<li>Seminar halls, board/meeting rooms etc</li>
+<li>e-classrooms</li>
+<li>Radio broadcast facilities for both community radio and commercial private FM.</li>
+<li>Workflow for educational TV studios and post production	 facilities.</li>
+<li>CCTV and surveillance</li>
+<li>Home theatres</li>
+<ul>
+    </div>
+
+  <h1>Our Solutions</h1>
+    <div class="post-content e-content">
+      Varpas provides end-to-end turnkey solution for the establishment of solutions and systems for content creation, professional audio, video, broadcast and allied sectors. It starts from understanding the idea and requirement of the client, to translate it as a solution, designing a system to meet the solution, advisory on choice of equipments so that, client can get value for their investment, supply of equipments and other material, installation, testing and commissioning of the system, training on operation and maintenance of the installed system.
+
+Varpas always had been a holding hand for its clients which support them to achieve the envisaged solution in an optimized and professional way comprehending their business of operation. Below are listing of the services offered by Varpas.
+<ul>
+<li>Preparation of presentation, Detailed Project Report containing detailed technical specification, bill of quantities, drawings, tender documents etc as per the organizational norms for procurement/execution.</li>
+<li>Site ready works viz civil/electrical/HVAC engineering works as per the site requirement and providing design and drawings for the work execution.</li>
+<li>Customized furniture designed for interiors, class room, auditoriums and other application.</li>
+<li>Studio design and creation of audio/video work flow for radio/TV stations.</li>
+<li>RF broadcast systems and network distribution through cable and Internet.</li>
+<li>Design of appropriate acoustic treatment to the interiors based on analytical measurements of the enclosed space as per ISO 3382 standard, Proscenium box, drapery systems, and high-end stage lighting system for auditorium, Design and integration of professional sound reinforcement and public address system.</li>
+<li>Video distribution, switching and presentation systems, Collaborative platforms like, video conferencing, streaming, wireless presentation systems, presentation sharing, file sharing, Digital signage system for display of paging information.</li>
+<li>President delegate system with voting, interpretation, look at me option etc., suiting the conference applications for board rooms, legislative assemblies etc.</li>
+<li>Electrical power distribution and general purpose lighting systems.</li>
+<li>Advisory on Government policy on Radio/TV broadcasting and distribution by satellite/Cable, guidance in licensing process etc.</li>
+<ul>
+    </div>
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <!--h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2-->
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <!--span class="post-meta">{{ post.date | date: date_format }}</span-->
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <!--a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-          </a>
+          </a-->
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+
       </li>
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!--p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p-->
   {%- endif -%}
 
 </div>
