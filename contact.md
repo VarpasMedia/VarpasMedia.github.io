@@ -1,12 +1,10 @@
 ﻿---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /Contact/
 ---
 
 ### Shri R.Narasimha Swamy
 
-   
-
-Contact: Flat 301, Chamundi Crystal apartment, Bhagavati Layout, 18th cross, Hulimavu, Bengaluru, 560076.   98801-97441/080-2648-7035, varpasmedia@gmail.com
-
+Contact: #301, 10th Main, 3rd Block, Jaynagar, Bengaluru, 560001.
+Mobile: 98801-97441/8762892954/080-2648-7035, varpasmedia@gmail.com
