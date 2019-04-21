@@ -52,7 +52,7 @@ B.N.Prahlad has served in reputed non Governmental organizations for almost two 
 <ul>
 
 Some of the important projects executed by him are as follows.
-<div class="post-content e-content">
+
 <ul>
 <li>Seva Soudha at Chamarajpet Bengaluru</li>
 <li>Rashtrotthana Shareerika Shiksha Kendra, Jayanagar, Bengaluru</li>
