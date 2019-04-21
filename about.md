@@ -39,11 +39,7 @@ Mobile: 8762192953/9845573679, varpasmedia@gmail.com
 ### B.N. Prahlad
 B.N.Prahlad has served in reputed non Governmental organizations for almost two decades and has acquired rich experience while working in different capacities of the project management like material management, tender evaluation, site supervision, coordination etc. Brief details of his experience in this field are as follows:
 
-18+ years as Project Manager in Rashtrothana Parishad, Bengaluru - a reputed not-for-profit, non Governmental organization with social service activities in the field of formal education, art, literature, Yoga, health care, community work etc in the state of Karnataka.
-
-<div class="post-content e-content">
-
-Following are his project management tasks:
+18+ years as Project Manager in Rashtrothana Parishad, Bengaluru - a reputed not-for-profit, non Governmental organization with social service activities in the field of formal education, art, literature, Yoga, health care, community work etc in the state of Karnataka.  Following are his project management tasks:
 
 <li>Material management tasks of the projects which includes procurement, storage, transport, logistics etc.</li>
 <li>Co-ordination with various agencies of the project management viz architect, suppliers, vendor, contractor, management, Government agencies etc.</li>
