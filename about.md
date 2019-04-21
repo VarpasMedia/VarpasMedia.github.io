@@ -31,14 +31,19 @@ PERSONAL: AGE 69 Years.
 HOBBIES: Watching Sports, Listening all types of Music, Public Relations and Travelling.
 Languages: Tamil, English, Kannada and Hindi.
 
-Contact: Flat 201, Chamundi Crystal apartment, Bhagavati Layout, 18th cross, Hulimavu, Bengaluru, 560076.   8762192953/9845573679, varpasmedia@gmail.com
+Contact: Flat 201, Chamundi Crystal apartment, Bhagavati Layout, 18th cross, Hulimavu, Bengaluru, 560076.  
+Mobile: 8762192953/9845573679, varpasmedia@gmail.com
+
+<div class="post-content e-content">
 
 ### B.N. Prahlad
 B.N.Prahlad has served in reputed non Governmental organizations for almost two decades and has acquired rich experience while working in different capacities of the project management like material management, tender evaluation, site supervision, coordination etc. Brief details of his experience in this field are as follows:
 
 18+ years as Project Manager in Rashtrothana Parishad, Bengaluru - a reputed not-for-profit, non Governmental organization with social service activities in the field of formal education, art, literature, Yoga, health care, community work etc in the state of Karnataka.
 
-Project management tasks
+<div class="post-content e-content">
+
+<h1>Following are his project management tasks:</h1>
 
 <li>Material management tasks of the projects which includes procurement, storage, transport, logistics etc.</li>
 <li>Co-ordination with various agencies of the project management viz architect, suppliers, vendor, contractor, management, Government agencies etc.</li>
@@ -61,10 +66,7 @@ Project management tasks
 <ul>
 
 
-
-
-
-
+<div class="post-content e-content">
 
 Personal details: Age 58
 Likes: Interior decoration, public relations, Indian Classical music and performing arts.
