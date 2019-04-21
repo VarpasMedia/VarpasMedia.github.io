@@ -43,7 +43,7 @@ B.N.Prahlad has served in reputed non Governmental organizations for almost two 
 
 <div class="post-content e-content">
 
-<h1>Following are his project management tasks:</h1>
+Following are his project management tasks:
 
 <li>Material management tasks of the projects which includes procurement, storage, transport, logistics etc.</li>
 <li>Co-ordination with various agencies of the project management viz architect, suppliers, vendor, contractor, management, Government agencies etc.</li>
