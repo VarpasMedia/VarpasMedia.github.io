@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 
@@ -51,8 +51,8 @@ B.N.Prahlad has served in reputed non Governmental organizations for almost two 
 <li>Site visits during the course of project execution for monitoring and reporting.</li>
 <ul>
 
-<h1>Some of the important projects executed by him are as follows.</h1>
-
+Some of the important projects executed by him are as follows.
+<div class="post-content e-content">
 <ul>
 <li>Seva Soudha at Chamarajpet Bengaluru</li>
 <li>Rashtrotthana Shareerika Shiksha Kendra, Jayanagar, Bengaluru</li>
@@ -65,8 +65,7 @@ B.N.Prahlad has served in reputed non Governmental organizations for almost two 
 
 <ul>
 
-
-<div class="post-content e-content">
+</div>
 
 Personal details: Age 58
 Likes: Interior decoration, public relations, Indian Classical music and performing arts.
