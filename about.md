@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Shri R.Narasimha Swamy
 
-I am a technocrat with 39 years of experience in the field of Professional audio and video, acoustics and Radio/TV broadcasting and .   Post retirement, along with his colleagues, he founded Varpas Media Technologies Pvt Ltd who provide consultancy and project execution services in the field of  Acoustics, Professional Audio/video engineering for auditoriums, seminar halls, e-Class rooms, Radio/TV/Cable/Satellite Broadcasting  and Skill development etc for Government bodies, corporate entities, Universities etc.  Presently, he is one of the Directors of this company.  He is also a resource person for training on subjects connected with acoustics, audio, Radio broadcast engineering, solid state transmitters, cable TV etc.    He holds post graduate degree in Electrical Communication Engineering from Indian Institute of Science, Bengaluru.  Post retirement, he has acquired a Post Graduation degree in Philosophy from IGNOU.  
+A technocrat with 39 years of experience in the field of Professional audio and video, acoustics and Radio/TV broadcasting and .   Post retirement, along with his colleagues, he founded Varpas Media Technologies Pvt Ltd who provide consultancy and project execution services in the field of  Acoustics, Professional Audio/video engineering for auditoriums, seminar halls, e-Class rooms, Radio/TV/Cable/Satellite Broadcasting  and Skill development etc for Government bodies, corporate entities, Universities etc.  Presently, he is one of the Directors of this company.  He is also a resource person for training on subjects connected with acoustics, audio, Radio broadcast engineering, solid state transmitters, cable TV etc.    He holds post graduate degree in Electrical Communication Engineering from Indian Institute of Science, Bengaluru.  Post retirement, he has acquired a Post Graduation degree in Philosophy from IGNOU.  
 
 Swamy started his career in All India Radio as Asst Director (Engineering) in the year 1980 at AIR, Dharwad and later he worked in various stations of the network like Kohima, Mangalore, Bengaluru, Mumbai etc.  Apart from this, he has worked as Deputy Director at Research Dept of AIR and DDI for a period of 13 years from 1988 to 2001.  During that period, he was responsible for development of number of application oriented Research projects in the field of Broadcast Engineering. He is recipient of 14 Akashvani annual awards for technical excellence in various categories like Research, innovation, maintenance, technical papers etc which is record for any engineer working in All India Radio.  He is recipient of NRDC award for best invention for his project on Dynamic Carrier Control of high power AM Transmitters for achieving electrical energy saving.  After his tenure at Research Dept, he worked at AIR, Imphal, Manipur as Director (Engineer) and was responsible for the installation and commissioning of AIR’s first 300 kW solid state MW Transmitter. Later, he worked as Superintending Engineer at Super Power Transmitters and AIR Bengaluru for a period of six years.
 
@@ -32,30 +32,38 @@ HOBBIES: Watching Sports, Listening all types of Music, Public Relations and Tra
 Languages: Tamil, English, Kannada and Hindi.
 
 ### Shri BN. Prahlad
-Resume of B.N.Prahlad
 B.N.Prahlad has served in reputed non Governmental organizations for almost two decades and has acquired rich experience while working in different capacities of the project management like material management, tender evaluation, site supervision, coordination etc. Brief details of his experience in this field are as follows:
-Field
-Details
-Total experience
+
 18+ years as Project Manager in Rashtrothana Parishad, Bengaluru - a reputed not-for-profit, non Governmental organization with social service activities in the field of formal education, art, literature, Yoga, health care, community work etc in the state of Karnataka.
 Project management tasks
 
- Material management tasks of the projects which includes procurement, storage, transport, logistics etc.
- Co-ordination with various agencies of the project management viz architect, suppliers, vendor, contractor, management, Government agencies etc.
- Involvement in site selection, framing specification, budgeting, tendering etc
- Site visits during the course of project execution for monitoring and reporting.
+<li>Material management tasks of the projects which includes procurement, storage, transport, logistics etc.</li>
+<li>Co-ordination with various agencies of the project management viz architect, suppliers, vendor, contractor, management, Government agencies etc.</li>
+<li>Involvement in site selection, framing specification, budgeting, tendering etc</li>
+<li>Site visits during the course of project execution for monitoring and reporting.</li>
+<ul>
 
+
+<ul>
 Projects
- Seva soudha at Chamarajpet Bangalore
- Rashtrotthana Shareerika Shiksha Kendra, Jayanagar, Bangalore
- Rashtrothana Vidya Kendra, Tanisandra, Nagavara, Bangalore
- Rashtrotthana Vidya Kendra Hemmigepura, Banashankari 6th Stage, Bangalore
- Rashtrotthana Jai Gopal Garodia Vidya Kendra, Ramamurthy nagar, Bangalore.
- Rashtrotthana Vidya Kendra Hagaribommanahalli, Bellary Dist.
- Rashtrotthana Vidya Kendra, Nittuvalli, Davanagere
- Rashtrotthana Vidya Kendra, Neralakatti, Dharwad
+<li>Seva soudha at Chamarajpet Bengaluru</li>
+<li>Rashtrotthana Shareerika Shiksha Kendra, Jayanagar, Bengaluru</li>
+<li>Rashtrothana Vidya Kendra, Tanisandra, Nagavara, Bangalore</li>
+<li>Rashtrotthana Vidya Kendra Hemmigepura, Banashankari 6th Stage, Bengaluru</li>
+<li>Rashtrotthana Jai Gopal Garodia Vidya Kendra, Ramamurthy nagar, Bengaluru.</li>
+<li>Rashtrotthana Vidya Kendra Hagaribommanahalli, Bellary Dist.</li>
+<li>Rashtrotthana Vidya Kendra, Nittuvalli, Davanagere</li>
+<li>Rashtrotthana Vidya Kendra, Neralakatti, Dharwad</li>
 
-Personal details: Age 55
+<ul>
+
+
+
+
+
+
+
+Personal details: Age 58
 Likes: Interior decoration, public relations, Indian Classical music and performing arts.
 Address:
 B.N.PRAHALAD, #301, 10th main, 3rd block, Jayanagar, Bengaluru, 560011,
