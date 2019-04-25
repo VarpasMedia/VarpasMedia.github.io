@@ -10,24 +10,19 @@ permalink: /Projects/
 
 <table>
     <tr>
-        <td>Row 1, cell 1</td>
-        <td>Row 1, cell 2</td>
-        <td>Row 1, cell 3</td>
+        <th>Question</th>
+        <th>Answer</th>
+        <th>Correct?</th>
     </tr>
     <tr>
-        <td>Row 2, cell 1</td>
-        <td>Row 2, cell 2</td>
-        <td>Row 2, cell 3</td>
+        <td>What is the capital of Burundi?</td>
+        <td>Bujumburra</td>
+        <td>Yes</td>
     </tr>
     <tr>
-        <td>Row 3, cell 1</td>
-        <td>Row 3, cell 2</td>
-        <td>Row 3, cell 3</td>
-    </tr>
-    <tr>
-        <td>Row 4, cell 1</td>
-        <td>Row 4, cell 2</td>
-        <td>Row 4, cell 3</td>
+        <td>What is the capital of France?</td>
+        <td>F</td>
+        <td>Erm... sort of</td>
     </tr>
 </table>
 
