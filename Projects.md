@@ -133,7 +133,7 @@ permalink: /Projects/
 
     <tr>
         <th>2</th>
-	<td>Dept of ECE, Indian Institute of Science, Bengaluru</td>
+	<td>Chairman, Dept of ECE, Indian Institute of Science, Bengaluru</td>
         <td>Project execution for acoustics, installed audio and Projection in 2 class rooms</td>
         <td>June-Oct 2018</td>
     </tr>
@@ -169,7 +169,7 @@ permalink: /Projects/
 
    	<tr>
         <th>1</th>
-	<td>Soncis Pvt Ltd, Bengaluru</td>
+	<td>Sonics Pvt Ltd, Bengaluru</td>
         <td>Consultancy for a CorporateTV studio</td>
         <td>March 2019</td>
     	</tr> 
@@ -241,8 +241,15 @@ permalink: /Projects/
 	<tr>
         <th>4</th>
 	<td>Indian Music Experience, Bengaluru</td>
-        <td>Validation of DPR containing Pro AV components prepared by a private consultant for establishment of 12 number Music related Galleries </td>
+        <td>Validation of DPR containing Pro AV components prepared by a private consultant for the establishment of 12 numbers of Music related Galleries </td>
         <td>July- Aug 2016</td>
+        </tr>
+
+	<tr>
+        <th>5</th>
+	<td>Chairman, SERC, Indian Institute of Science, Bengaluru</td>
+        <td>Interior works in the Department building </td>
+        <td>April - May 2016</td>
         </tr>
 
 </table>
