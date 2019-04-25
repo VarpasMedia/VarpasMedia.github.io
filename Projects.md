@@ -34,26 +34,45 @@ permalink: /Projects/
 
 <table>
     <tr>
-        <th>Client</th>
+        <th>SL</th>
+	<th>Client</th>
         <th>Project</th>
         <th>Period</th>
     </tr>
     <tr>
-        <td>Vivkekananda Vidya Vardhaka Sangha</td>
+        <th>1</th>
+	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
         <td>Consultancy and project execution for Community radio station including Internet Radio</td>
         <td>June-Oct 2017</td>
     </tr>
+
     <tr>
-        <td>Maharaja Education Trust</td>
+	<th>2</th>
+        <td>Naryana Hrudayalaya, Bengaluru</td>
+        <td>Establishment of Internet Radio station</td>
+        <td>June-Oct 2017</td>
+    </tr>
+
+    <tr>
+	<th>3</th>
+        <td>Maharaja Education Trust, Mysuru</td>
         <td>Consultancy and project execution for Community radio station</td>
         <td>June 2018-Sept 2018</td>
     </tr>
 
     <tr>
+	<th>4</th>
         <td>Basaveshwara Engineering College, Bagalkot</td>
         <td>Consultancy and project execution for Community radio station including Internet Radio station</td>
         <td>Nov 2018 to April 2019</td>
     </tr>
+
+    <tr>
+        <td>Swami Vivekananda Youth Movement, Saragur, Karnataka</td>
+        <td>Refurbishing of the existing Community radio station</td>
+        <td>Feb 2019 to April 2019</td>
+    </tr>
+
 </table>
 
 
