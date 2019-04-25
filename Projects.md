@@ -84,10 +84,10 @@ permalink: /Projects/
         <td>Feb 2019 to April 2019</td>
     </tr>
 
-
+</table>
 
 ### e-Classroom and Lecture Halls
-
+<table>
 
     <tr>
         <th>SL</th>
