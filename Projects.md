@@ -264,14 +264,14 @@ permalink: /Projects/
 
 
 	<tr>
-        <th>7</th>
+        <th>6</th>
 	<td>Indian Music Experience, Bengaluru</td>
         <td>Validation of DPR containing Pro AV components prepared by a private consultant for the establishment of 12 numbers of Music related Galleries </td>
         <td>July- Aug 2016</td>
         </tr>
 
 	<tr>
-        <th>8</th>
+        <th>7</th>
 	<td>Chairman, SERC, Indian Institute of Science, Bengaluru</td>
         <td>Interior works in the Department building </td>
         <td>April - May 2016</td>
