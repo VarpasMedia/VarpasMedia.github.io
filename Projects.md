@@ -86,9 +86,9 @@ permalink: /Projects/
 
 
 
-### e-Classroom/Lecture Halls
+### e-Classroom and Lecture Halls
 
-<table>
+
     <tr>
         <th>SL</th>
 	<th>Client</th>
@@ -122,11 +122,6 @@ permalink: /Projects/
         <td>Basaveshwar Engienering College, Bagalkot</td>
         <td>Acoustic treatment in 7 numbers of classrooms/seminar halls</td>
         <td>Jan-March 2019</td>
-    </tr>
-
-
-
-
     </tr>
 
 
