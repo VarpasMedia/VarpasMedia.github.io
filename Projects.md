@@ -28,6 +28,33 @@ permalink: /Projects/
 </table>
 
 
+### Community radio station
+
+
+
+<table>
+    <tr>
+        <th>Client</th>
+        <th>Project</th>
+        <th>Period</th>
+    </tr>
+    <tr>
+        <td>Vivkekananda Vidya Vardhaka Sangha</td>
+        <td>Consultancy and project execution for Community radio station including Internet Radio</td>
+        <td>June-Oct 2017</td>
+    </tr>
+    <tr>
+        <td>Maharaja Education Trust</td>
+        <td>Consultancy and project execution for Community radio station</td>
+        <td>June 2018-Sept 2018</td>
+    </tr>
+
+    <tr>
+        <td>Basaveshwara Engineering College, Bagalkot</td>
+        <td>Consultancy and project execution for Community radio station including Internet Radio station</td>
+        <td>Nov 2018 to April 2019</td>
+    </tr>
+</table>
 
 
 
