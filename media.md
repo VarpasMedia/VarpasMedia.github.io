@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: Contact
-permalink: /Contact/
+title: Media
+permalink: /Media/
 ---
 
 ### R.Narasimha Swamy
