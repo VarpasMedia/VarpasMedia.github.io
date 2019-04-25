@@ -10,28 +10,23 @@ permalink: /Projects/
 
 <table>
     <tr>
-        <th>Question</th>
-        <th>Answer</th>
-        <th>Correct?</th>
+        <th>Client</th>
+        <th>Project</th>
+        <th>Period</th>
     </tr>
     <tr>
-        <td>What is the capital of Burundi?</td>
-        <td>Bujumburra</td>
-        <td>Yes</td>
+        <td>Mysuru Nirmiti Kendra</td>
+        <td>Consultancy for the acoustics and Installed audio for Ambedkar Bhavan HD Kote</td>
+        <td>June-Oct 2018</td>
     </tr>
     <tr>
-        <td>What is the capital of France?</td>
-        <td>F</td>
-        <td>Erm... sort of</td>
+        <td>Dept of Kannada and Culture, Govt of Karnataka?</td>
+        <td>Consultancy for acoustics, Installed audio, lighting, seating etc for 12 Ranga Mandiras across the State</td>
+        <td>June 2018-Sept 2018</td>
     </tr>
 </table>
 
-Some of the important projects executed by him are as follows.
 
-<ul>
-<li>Consultancy for Ambedkar Bhavan, Mysore Nirmiti Kendra, HD Kote</li>
-
-<ul>
 
 
 
