@@ -135,8 +135,53 @@ permalink: /Projects/
     </tr>
 
 
+</table>
+
+
+### TV Studio projects
+<table>
+
+    <tr>
+        <th>SL</th>
+	<th>Client</th>
+        <th>Project</th>
+        <th>Period</th>
+    </tr>
+
+   <tr>
+        <th>1</th>
+	<td>Bangalore University</td>
+        <td>Consultancy and preparation of DPR for TV studio</td>
+        <td>Jan-March 2017</td>
+    </tr>  
+
+
+    <tr>
+        <th>2</th>
+	<td>iNurture Education Solution Pvt Ltd, Bengaluru</td>
+        <td>Design and project execution for a small sized TV studio for education purposes</td>
+        <td>June-Nov 2016</td>
+    </tr>
+
+    <tr>
+        <th>2</th>
+	<td>Sribel Innvoation Pvt Ltd, Bengaluru</td>
+        <td>Design and project execution for a small sized Corporate TV studio</td>
+        <td>Sept-Nov 2016</td>
+    </tr>
+
 
 </table>
 
 
 
+### Miscellaneous projects
+<table>
+    <tr>
+        <th>1</th>
+	<td>Indian Music Experience, Bengaluru</td>
+        <td>Validation of DPR containing Pro AV components prepared by a private consultant for establishment of 12 number Music related Galleries </td>
+        <td>July- Aug 2016</td>
+    </tr>
+
+</table>
