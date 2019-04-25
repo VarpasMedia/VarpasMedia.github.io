@@ -77,42 +77,46 @@ permalink: /Projects/
         <th>Project</th>
         <th>Period</th>
     </tr>
+
     <tr>
-        <th>1</th>
-	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
-        <td>Consultancy and project execution for Community radio station including Internet Radio</td>
-        <td>June-Oct 2017</td>
+         <th>1</th>
+        <td>Swami Vivekananda Youth Movement, Saragur, Karnataka</td>
+        <td>Refurbishing of the existing Community radio station</td>
+        <td>Feb 2019 to April 2019</td>
     </tr>
 
     <tr>
 	<th>2</th>
-        <td>Naryana Hrudayalaya, Bengaluru</td>
-        <td>Establishment of Internet Radio station</td>
-        <td>June-Oct 2017</td>
+        <td>Basaveshwara Engineering College, Bagalkot</td>
+        <td>Consultancy and project execution for Community radio station including Internet Radio station</td>
+        <td>Nov 2018 to April 2019</td>
     </tr>
 
-    <tr>
+   <tr>
 	<th>3</th>
         <td>Maharaja Education Trust, Mysuru</td>
         <td>Consultancy and project execution for Community radio station</td>
         <td>June 2018-Sept 2018</td>
     </tr>
 
+
     <tr>
-	<th>4</th>
-        <td>Basaveshwara Engineering College, Bagalkot</td>
-        <td>Consultancy and project execution for Community radio station including Internet Radio station</td>
-        <td>Nov 2018 to April 2019</td>
+        <th>4</th>
+	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
+        <td>Consultancy and project execution for Community radio station including Internet Radio</td>
+        <td>June-Oct 2017</td>
     </tr>
 
     <tr>
-         <th>5</th>
-        <td>Swami Vivekananda Youth Movement, Saragur, Karnataka</td>
-        <td>Refurbishing of the existing Community radio station</td>
-        <td>Feb 2019 to April 2019</td>
+	<th>5</th>
+        <td>Naryana Hrudayalaya, Bengaluru</td>
+        <td>Establishment of Internet Radio station</td>
+        <td>June-Oct 2017</td>
     </tr>
 
-</table>
+ </table>
+
+
 
 ### e-Classroom and Lecture Halls
 <table>
@@ -125,10 +129,10 @@ permalink: /Projects/
     </tr>
 
     <tr>
-        <th>1</th>
-	<td>The Mythic SocietyBengaluru</td>
-        <td>Installed audio at Daly Hall</td>
-        <td>June-Oct 2018</td>
+	<th>1</th>
+        <td>Principal, Basaveshwar Engienering College, Bagalkot</td>
+        <td>Acoustic treatment in 7 numbers of classrooms/seminar halls</td>
+        <td>Jan-March 2019</td>
     </tr>
 
     <tr>
@@ -145,11 +149,12 @@ permalink: /Projects/
         <td>June 2018 to April 2019</td>
     </tr>
 
+
     <tr>
-	<th>4</th>
-        <td>Basaveshwar Engienering College, Bagalkot</td>
-        <td>Acoustic treatment in 7 numbers of classrooms/seminar halls</td>
-        <td>Jan-March 2019</td>
+        <th>4</th>
+	<td>The Mythic Society, Bengaluru</td>
+        <td>Installed audio at Daly Hall</td>
+        <td>June-Oct 2018</td>
     </tr>
 
 
