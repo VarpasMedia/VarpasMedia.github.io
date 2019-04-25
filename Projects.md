@@ -28,7 +28,7 @@ permalink: /Projects/
  	<tr>
 	<th>2</th>
         <td>Rashtrakavi M Govinda Pai Memorial Trust, Manjeshwara</td>
-        <td>Consultancy for the acoustics, installed audio and stage lighting of Bhuvanika auditorium of Gilivindu project</td>
+        <td>Consultancy for the acoustics, installed audio, stage lighting, seating etc for Bhuvanika auditorium of Gilivindu project</td>
         <td>From Jan 2018. Ongoing</td>
     	</tr>
 
@@ -37,7 +37,7 @@ permalink: /Projects/
     	<tr>
 	<th>3</th>
         <td>Mysuru Nirmiti Kendra</td>
-        <td>Consultancy for the acoustics and Installed audio for Ambedkar Bhavan HD Kote</td>
+        <td>Consultancy for the Acoustics, Stage lighting and Installed audio for Ambedkar Bhavan HD Kote</td>
         <td>June-Oct 2018</td>
     	</tr>
 
@@ -96,7 +96,7 @@ permalink: /Projects/
 	<th>3</th>
         <td>Maharaja Education Trust, Mysuru</td>
         <td>Consultancy and project execution for Community radio station</td>
-        <td>June 2018-Sept 2018</td>
+        <td>June 2018-December 2018</td>
     </tr>
 
 
@@ -109,7 +109,7 @@ permalink: /Projects/
 
     <tr>
 	<th>5</th>
-        <td>Naryana Hrudayalaya, Bengaluru</td>
+        <td>Narayana Hrudayalaya, Bengaluru</td>
         <td>Establishment of Internet Radio station</td>
         <td>June-Oct 2017</td>
     </tr>
@@ -130,7 +130,7 @@ permalink: /Projects/
 
     <tr>
 	<th>1</th>
-        <td>Principal, Basaveshwar Engienering College, Bagalkot</td>
+        <td>Principal, Basaveshwar Enginenering College, Bagalkot</td>
         <td>Acoustic treatment in 7 numbers of classrooms/seminar halls</td>
         <td>Jan-March 2019</td>
     </tr>
@@ -138,14 +138,14 @@ permalink: /Projects/
     <tr>
         <th>2</th>
 	<td>Chairman, Dept of ECE, Indian Institute of Science, Bengaluru</td>
-        <td>Project execution for acoustics, installed audio and Projection in 2 class rooms</td>
+        <td>Project execution for acoustics, installed audio and Video Projection in 2 class rooms</td>
         <td>June-Oct 2018</td>
     </tr>
 
     <tr>
         <th>3</th>
 	<td>The Mythic Society Bengaluru</td>
-        <td>Project execution for acoustics, installed audio and Projection at Centenary Hall</td>
+        <td>Project execution for acoustics, installed audio and Video Projection at Centenary Hall</td>
         <td>June 2018 to April 2019</td>
     </tr>
 
