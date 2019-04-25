@@ -240,9 +240,22 @@ permalink: /Projects/
         <td>April 2018</td>
         </tr>	
 
-
 	<tr>
         <th>3</th>
+	<td>Swami Vivekananda Hospital, Saragur</td>
+        <td> Acoustic treatment of Audiology Lab</td>
+        <td>April 2017</td>
+        </tr>	
+
+	<tr>
+        <th>4</th>
+	<td>Mysore Consultants Pvt Ltd, Bengaluru</td>
+        <td> Consultancy for Acoustic treatment of Drama theatre in JP Nagar, Bengaluru</td>
+        <td>March 2017</td>
+        </tr>
+
+	<tr>
+        <th>5</th>
 	<td>Bruhat Bengaluru Mahanagara Palike (BBMP)</td>
         <td>PMC and preparation of DPR for the establishment of 36 seater state-of-the art Call center including interiors, acoustics, Pro AV, power supply, HVAC, application software etc.</td>
         <td>Feb - June 2017</td>
@@ -251,14 +264,14 @@ permalink: /Projects/
 
 
 	<tr>
-        <th>4</th>
+        <th>7</th>
 	<td>Indian Music Experience, Bengaluru</td>
         <td>Validation of DPR containing Pro AV components prepared by a private consultant for the establishment of 12 numbers of Music related Galleries </td>
         <td>July- Aug 2016</td>
         </tr>
 
 	<tr>
-        <th>5</th>
+        <th>8</th>
 	<td>Chairman, SERC, Indian Institute of Science, Bengaluru</td>
         <td>Interior works in the Department building </td>
         <td>April - May 2016</td>
