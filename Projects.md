@@ -6,8 +6,6 @@ permalink: /Projects/
 
 ### Auditorium
 
-
-
 <table>
     <tr>
 	<th>SL</th>
@@ -85,48 +83,4 @@ permalink: /Projects/
     </tr>
 
 </table>
-
-### e-Classroom and Lecture Halls
-<table>
-
-    <tr>
-        <th>SL</th>
-	<th>Client</th>
-        <th>Project</th>
-        <th>Period</th>
-    </tr>
-
-    <tr>
-        <th>1</th>
-	<td>The Mythic SocietyBengaluru</td>
-        <td>Installed audio at Daly Hall</td>
-        <td>June-Oct 2018</td>
-    </tr>
-
-    <tr>
-        <th>2</th>
-	<td>Dept of ECE, Indian Institute of Science, Bengaluru</td>
-        <td>Project execution for acoustics, installed audio and Projection in 2 class rooms</td>
-        <td>June-Oct 2018</td>
-    </tr>
-
-    <tr>
-        <th>3</th>
-	<td>The Mythic Society Bengaluru</td>
-        <td>Project execution for acoustics, installed audio and Projection at Centenary Hall</td>
-        <td>June 2018 to April 2019</td>
-    </tr>
-
-    <tr>
-	<th>4</th>
-        <td>Basaveshwar Engienering College, Bagalkot</td>
-        <td>Acoustic treatment in 7 numbers of classrooms/seminar halls</td>
-        <td>Jan-March 2019</td>
-    </tr>
-
-
-
-</table>
-
-
 
