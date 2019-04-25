@@ -16,36 +16,54 @@ permalink: /Projects/
         <th>Period</th>
     </tr>
 
-    <tr>
+ 	<tr>
 	<th>1</th>
+        <td>Divyajyoti Vidya Kendra, Nelamangala</td>
+        <td>Project management consultancy for the establishment of Tagore Cultural Complex at JP Nagar 9th Phase, Bengaluru</td>
+        <td> From Jan 2018.  Ongoing</td>
+    	</tr>
+
+
+
+ 	<tr>
+	<th>2</th>
+        <td>Rashtrakavi M Govinda Pai Memorial Trust, Manjeshwara</td>
+        <td>Consultancy for the acoustics, installed audio and stage lighting of Bhuvanika auditorium of Gilivindu project</td>
+        <td>From Jan 2018. Ongoing</td>
+    	</tr>
+
+
+
+    	<tr>
+	<th>3</th>
         <td>Mysuru Nirmiti Kendra</td>
         <td>Consultancy for the acoustics and Installed audio for Ambedkar Bhavan HD Kote</td>
         <td>June-Oct 2018</td>
-    </tr>
+    	</tr>
 
-    <tr>
-	<th>2</th>
+    	<tr>
+	<th>4</th>
         <td>Dept of Kannada and Culture, Govt of Karnataka</td>
         <td>Consultancy and preparation of Detailed Project Report for carrying out complete renovation of interior works which includes 
 		acoustics, Installed audio, stage lighting, seating, ventilation, power supply arrangement, minor civil engineering works etc for 
 		District Ranga Mandiras at  Kolar, Tumkur, Mandya, Mysuru, Hassan, Chikamagalur, Karwar, Shivamogga, Chitradurga, Bidar, Belagavi,
 					    Gulabarga, Vijaypura, Raichur and Bellary</td>
         <td>June 2018-Sept 2018</td>
-    </tr>
+    	</tr>
 
-    <tr>
-	<th>3</th>
+    	<tr>
+	<th>5</th>
         <td>Dept of Kannada and Culture, Govt of Karnataka</td>
         <td>Consultancy and preparation of Detailed Project Report for renovation of Nayana Auditorium, Kannada Bhavana, Bengaluru</td>
         <td> April 2018-May 2018</td>
-    </tr>
+    	</tr>
 
 
     <tr>
-	<th>4</th>
-        <td>Divyajyoti Vidya Kendra, Nelamangala</td>
-        <td>Project management consultancy for the establishment of Tagore Cultural Complex at JP Nagar 9th Phase, Bengaluru</td>
-        <td>Jan 2018 to Dec 2019</td>
+	<th>6</th>
+        <td>Mysuru Urban Development Authority</td>
+        <td>Consultancy and preparation of DPR for interior of 200 seater, Ambedkar Bhavan at Mysuru</td>
+        <td>Jan - March 2017</td>
     </tr>
 </table>
 
@@ -148,27 +166,36 @@ permalink: /Projects/
         <th>Period</th>
     </tr>
 
-   <tr>
+
+   	<tr>
         <th>1</th>
+	<td>Soncis Pvt Ltd, Bengaluru</td>
+        <td>Consultancy for a CorporateTV studio</td>
+        <td>March 2019</td>
+    	</tr> 
+
+
+   	<tr>
+        <th>2</th>
 	<td>Bangalore University</td>
         <td>Consultancy and preparation of DPR for TV studio</td>
         <td>Jan-March 2017</td>
-    </tr>  
+    	</tr>  
 
 
-    <tr>
-        <th>2</th>
+    	<tr>
+        <th>3</th>
 	<td>iNurture Education Solution Pvt Ltd, Bengaluru</td>
         <td>Design and project execution for a small sized TV studio for education purposes</td>
         <td>June-Nov 2016</td>
-    </tr>
+    	</tr>
 
-    <tr>
-        <th>2</th>
+    	<tr>
+        <th>4</th>
 	<td>Sribel Innvoation Pvt Ltd, Bengaluru</td>
         <td>Design and project execution for a small sized Corporate TV studio</td>
         <td>Sept-Nov 2016</td>
-    </tr>
+    	</tr>
 
 
 </table>
@@ -177,11 +204,45 @@ permalink: /Projects/
 
 ### Miscellaneous projects
 <table>
+    
     <tr>
+        <th>SL</th>
+	<th>Client</th>
+        <th>Project</th>
+        <th>Period</th>
+    </tr>
+
+
+	<tr>
         <th>1</th>
+	<td>University of Agricultural Sciences, Dharwad</td>
+        <td> 3rd party inspection of the installed audio and stage lighting of the auditorium</td>
+        <td>Sept 2018</td>
+        </tr>
+
+
+	<tr>
+        <th>2</th>
+	<td>Mysuru Nirmiti Kendra</td>
+        <td> 3rd party inspection of the installed audio and Chairman/member delegate system of the Mysuru Zilla Parishad hall</td>
+        <td>April 2018</td>
+        </tr>	
+
+
+	<tr>
+        <th>3</th>
+	<td>Bruhat Bengaluru Mahanagara Palike (BBMP)</td>
+        <td>PMC and preparation of DPR for the establishment of 36 seater state-of-the art Call center including interiors, acoustics, Pro AV, power supply, HVAC, application software etc.</td>
+        <td>Feb - June 2017</td>
+        </tr>
+
+
+
+	<tr>
+        <th>4</th>
 	<td>Indian Music Experience, Bengaluru</td>
         <td>Validation of DPR containing Pro AV components prepared by a private consultant for establishment of 12 number Music related Galleries </td>
         <td>July- Aug 2016</td>
-    </tr>
+        </tr>
 
 </table>
