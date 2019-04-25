@@ -36,7 +36,7 @@ permalink: /Projects/
     <tr>
 	<th>3</th>
         <td>Dept of Kannada and Culture, Govt of Karnataka</td>
-        <td>Consultancy and preparation of Detailed Project Report for renovation of Nayana Auditorium, Bengaluruy</td>
+        <td>Consultancy and preparation of Detailed Project Report for renovation of Nayana Auditorium, Kannada Bhavana, Bengaluru</td>
         <td> April 2018-May 2018</td>
     </tr>
 
