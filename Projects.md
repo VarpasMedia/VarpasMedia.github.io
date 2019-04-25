@@ -20,8 +20,9 @@ permalink: /Projects/
         <td>June-Oct 2018</td>
     </tr>
     <tr>
-        <td>Dept of Kannada and Culture, Govt of Karnataka?</td>
-        <td>Consultancy for acoustics, Installed audio, lighting, seating etc for 12 Ranga Mandiras across the State</td>
+        <td>Dept of Kannada and Culture, Govt of Karnataka</td>
+        <td>Consultancy and preparation of Detailed Project Report for carrying out complete renovation which includes  for acoustics, Installed audio, stage lighting, seating etc for District Ranga Mandiras at  Kolar, Tumkur, Mandya, Mysuru
+		Hassan, Chikamagalur, Karwar, Shivamogga, Chitradurga, Bidar, Gulabarga, Vijaypura, Raichur and Bellary</td>
         <td>June 2018-Sept 2018</td>
     </tr>
 </table>
