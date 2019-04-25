@@ -100,15 +100,22 @@ permalink: /Projects/
     </tr>
 
 
+   <tr>
+	<th>4</th>
+        <td>Keystone Foundation, Kotagiri, Tamil Nadu</td>
+        <td>Replacing the defective Broadcast antenna and related works</td>
+        <td>December 2018</td>
+    </tr>
+
     <tr>
-        <th>4</th>
+        <th>5</th>
 	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
         <td>Consultancy and project execution for Community radio station including Internet Radio</td>
         <td>June-Oct 2017</td>
     </tr>
 
     <tr>
-	<th>5</th>
+	<th>6</th>
         <td>Narayana Hrudayalaya, Bengaluru</td>
         <td>Establishment of Internet Radio station</td>
         <td>June-Oct 2017</td>
