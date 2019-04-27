@@ -32,4 +32,3 @@ permalink: /Media/
 <p></p>
 <p></p>
 
-<img src = "/Photos/MET-2.jpg" border = "1" />
