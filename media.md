@@ -8,7 +8,7 @@ permalink: /Media/
 
 <p>Project photos. (Under construction)</p>
 
-<img src = "/images/Logo Big.jpg" border = "3"/>
+<img src = "/images/Logo Big.jpg" border = "3" align = "right"/>
 
 <p>Second image </p>
 
