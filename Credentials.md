@@ -6,7 +6,11 @@ permalink: /Credentials/
 
 
 
-<p>Credentials. (Under construction)</p>
+<p>Credentials. </p>
 
 
+
+<p>Our GST number: 29AAECV7008C1ZF </p>
+
+<p> Our TIN number is: 29721188060 </p>
 
