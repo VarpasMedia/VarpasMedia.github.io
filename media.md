@@ -10,7 +10,7 @@ permalink: /Media/
 
 <p>Project photos. (Under construction)</p>
 
-<img src="Logo Big.jpg" width="680" height="287" alt="">
+<img src="Logo Big.jpg" width="100" height="50" alt="">
 
 
 
