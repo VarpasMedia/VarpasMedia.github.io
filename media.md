@@ -10,7 +10,7 @@ permalink: /Media/
 
 <p>Project photos. (Under construction)</p>
 
-<img src="Logo Big.jpg" width="100" height="50" alt="">
+<img src="Logo of Varpas.jpg" width="100" height="50" alt="">
 
 
 
