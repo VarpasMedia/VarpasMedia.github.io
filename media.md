@@ -13,5 +13,5 @@ permalink: /Media/
 <p>Second image </p>
 
 
-<img src = "/images/Logo of Varpas.png"/>
+<img src = "/images/Logo of Varpas.png" width = "189" height = "40"/>
 
