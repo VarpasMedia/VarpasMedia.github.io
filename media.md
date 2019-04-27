@@ -16,7 +16,7 @@ permalink: /Media/
 	  alt=""
 	  style="float: left; 
 	  margin-right: 
-          10px;/>
+          10px>
 
 
 
