@@ -6,12 +6,12 @@ permalink: /Media/
 
 
 
-
+<body>
 
 <p>Project photos. (Under construction)</p>
 
-<img src="images/Logo of Varpas.png"/>
+<img src="Logo Big.jpg" alt "Logo of Varpas.png"/>
 
 
-
+</body>
 
