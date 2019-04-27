@@ -10,7 +10,8 @@ permalink: /Media/
 
 <p>Project photos. (Under construction)</p>
 
-<img src="Logo Big.jpg" width="290" height="64"   alt="">
+<img src="Logo Big.jpg" width="480" height="287" alt="Anaconda">
+
 
 
 
