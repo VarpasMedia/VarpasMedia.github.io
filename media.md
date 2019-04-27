@@ -10,6 +10,8 @@ permalink: /Media/
 
 <img src = "/images/Logo Big.jpg" alt = "/images/Logo of Varpas.png"/>
 
+<p>Second image </p>
+
 <img src =  "/images/Logo of Varpas.png" alt "/images/Logo Big.jpg"/>
 
 
