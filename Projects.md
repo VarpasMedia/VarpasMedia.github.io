@@ -242,7 +242,7 @@ permalink: /Projects/
 
 	<tr>
         <th>3</th>
-	<td>Swami Vivekananda Hospital, Saragur</td>
+	<td>Swami Vivekananda Memorial Hospital, Swami Vivekananda Youth Movement, Saragur</td>
         <td> Acoustic treatment of Audiology Lab</td>
         <td>April 2017</td>
         </tr>	
@@ -250,14 +250,14 @@ permalink: /Projects/
 	<tr>
         <th>4</th>
 	<td>Mysore Consultants Pvt Ltd, Bengaluru</td>
-        <td> Consultancy for Acoustic treatment of Drama theatre in JP Nagar, Bengaluru</td>
+        <td> Consultancy for Acoustic treatment of a private Drama theatre at JP Nagar, Bengaluru</td>
         <td>March 2017</td>
         </tr>
 
 	<tr>
         <th>5</th>
 	<td>Bruhat Bengaluru Mahanagara Palike (BBMP)</td>
-        <td>PMC and preparation of DPR for the establishment of 36 seater state-of-the art Call center including interiors, acoustics, Pro AV, power supply, HVAC, application software etc.</td>
+        <td>PMC and preparation of the DPR for the establishment of 36 seater state-of-the art Call center including interiors, Electric power supply, Acoustics, Pro AV, HVAC, application software etc.</td>
         <td>Feb - June 2017</td>
         </tr>
 
