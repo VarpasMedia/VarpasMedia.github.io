@@ -13,4 +13,18 @@ permalink: /Credentials/
 <p> Our TIN number is: 29721188060 </p>
 
 
+<p>Few of the completion certificates issued by our clients. </p>
 
+
+<p></p>
+<img src = "/Photos/CC by Mythic Society.jpg" border = "1" />
+<p></p>
+
+<p></p>
+<img src = "/Photos/CC by VVS.jpg" border = "1" />
+<p></p>
+
+
+<p></p>
+<img src = "/Photos/CC by iNurture.jpg" border = "1" />
+<p></p>
