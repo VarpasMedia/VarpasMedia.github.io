@@ -17,7 +17,7 @@ permalink: /Credentials/
 
 <p>                                                          </p>
 
-<p>Few of the completion certificates issued by our clients. </p>
+<h1>Few of the completion certificates issued by our clients. </h1>
 
 
 
