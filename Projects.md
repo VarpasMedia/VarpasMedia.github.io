@@ -62,7 +62,7 @@ permalink: /Projects/
     <tr>
 	<th>6</th>
         <td>Mysuru Urban Development Authority</td>
-        <td>Consultancy and preparation of DPR for the Acoustics, Stage Lighting, Installed audio, seating, CCTV and Fire alarm for 2,000 seater, Ambedkar Bhavan at Mysuru</td>
+        <td>Consultancy and preparation of the DPR for the Acoustics, Stage Lighting, Installed audio, seating, CCTV and Fire alarm for 2,000 seater, Ambedkar Bhavan at Mysuru</td>
         <td>Jan - March 2017</td>
     </tr>
 </table>
@@ -88,14 +88,14 @@ permalink: /Projects/
     <tr>
 	<th>2</th>
         <td>Basaveshwara Engineering College, Bagalkot</td>
-        <td>Consultancy and project execution for Community radio station including Internet Radio station</td>
+        <td>Consultancy and project execution for the establishment of Community radio station including Internet Radio station</td>
         <td>Nov 2018 to April 2019</td>
     </tr>
 
    <tr>
 	<th>3</th>
         <td>Maharaja Education Trust, Mysuru</td>
-        <td>Consultancy and project execution for Community radio station</td>
+        <td>Consultancy and project execution for the establishment of the Community radio station</td>
         <td>June 2018-December 2018</td>
     </tr>
 
@@ -110,14 +110,14 @@ permalink: /Projects/
     <tr>
         <th>5</th>
 	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
-        <td>Consultancy and project execution for Community radio station including Internet Radio</td>
+        <td>Consultancy and project execution for the establishment of Community radio station including Internet Radio</td>
         <td>June-Oct 2017</td>
     </tr>
 
     <tr>
 	<th>6</th>
         <td>Narayana Hrudayalaya, Bengaluru</td>
-        <td>Establishment of Internet Radio station</td>
+        <td>Establishment of the Internet Radio station to supplement the existing Community radio</td>
         <td>June-Oct 2017</td>
     </tr>
 
@@ -138,21 +138,21 @@ permalink: /Projects/
     <tr>
 	<th>1</th>
         <td>Principal, Basaveshwar Enginenering College, Bagalkot</td>
-        <td>Acoustic treatment in 7 numbers of classrooms/seminar halls</td>
+        <td>Acoustic treatment for 7 numbers of classrooms/seminar halls</td>
         <td>Jan-March 2019</td>
     </tr>
 
     <tr>
         <th>2</th>
-	<td>Chairman, Dept of ECE, Indian Institute of Science, Bengaluru</td>
-        <td>Project execution for acoustics, installed audio and Video Projection in 2 class rooms</td>
-        <td>June-Oct 2018</td>
+	<td>Chairman, Dept of Electrical communication engg, Indian Institute of Science, Bengaluru</td>
+        <td>Project execution for the Acoustics, installed audio and Video Projection in 2 class rooms</td>
+        <td>June-Dec 2018</td>
     </tr>
 
     <tr>
         <th>3</th>
 	<td>The Mythic Society Bengaluru</td>
-        <td>Project execution for acoustics, installed audio and Video Projection at Centenary Hall</td>
+        <td>Project execution for the acoustics, installed audio and Video Projection at Centenary Hall</td>
         <td>June 2018 to April 2019</td>
     </tr>
 
@@ -160,7 +160,7 @@ permalink: /Projects/
     <tr>
         <th>4</th>
 	<td>The Mythic Society, Bengaluru</td>
-        <td>Installed audio at Daly Hall</td>
+        <td>Installed audio at the Daly Hall</td>
         <td>June-Oct 2018</td>
     </tr>
 
@@ -182,15 +182,15 @@ permalink: /Projects/
    	<tr>
         <th>1</th>
 	<td>Sonics Pvt Ltd, Bengaluru</td>
-        <td>Consultancy for a CorporateTV studio</td>
+        <td>Consultancy for a Corporate TV studio</td>
         <td>March 2019</td>
     	</tr> 
 
 
    	<tr>
         <th>2</th>
-	<td>Bangalore University</td>
-        <td>Consultancy and preparation of DPR for TV studio</td>
+	<td>Bengaluru University</td>
+        <td>Consultancy and preparation of DPR for the TV studio</td>
         <td>Jan-March 2017</td>
     	</tr>  
 
@@ -198,14 +198,14 @@ permalink: /Projects/
     	<tr>
         <th>3</th>
 	<td>iNurture Education Solution Pvt Ltd, Bengaluru</td>
-        <td>Design and project execution for a small sized TV studio for education purposes</td>
+        <td>Design and project execution for a CorporateTV studio for the educational content content preparation</td>
         <td>June-Nov 2016</td>
     	</tr>
 
     	<tr>
         <th>4</th>
 	<td>Sribel Innvoation Pvt Ltd, Bengaluru</td>
-        <td>Design and project execution for a small sized Corporate TV studio</td>
+        <td>Design and project execution for a Corporate TV studio</td>
         <td>Sept-Nov 2016</td>
     	</tr>
 
