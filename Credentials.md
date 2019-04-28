@@ -13,10 +13,10 @@ permalink: /Credentials/
 <p> Our TIN number is: 29721188060 </p>
 
 
-<p> ________________________________________________________ </p>
+<p> _________________________________________________________________________________________________________ </p>
 
 <p>                                                          </p>
-<div class="post-content e-content">
+
 <p style="color: blue">
 <h1>Few of the completion certificates issued by our clients. </h1>
 
