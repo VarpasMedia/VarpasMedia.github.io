@@ -9,13 +9,7 @@ permalink: /Media/
 <p>Photos of the Community Radio Station Projects. </p>
 
 
-<p></p>
-<img src = "/Photos/MET-1.jpg" border = "1" />
-<p></p>
 
-<p></p>
-<img src = "/Photos/MET-1.jpg" border = "1" />
-<p></p>
 
 <p></p>
 <img src = "/Photos/BEC-1.jpg" border = "1" />
