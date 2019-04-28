@@ -8,11 +8,15 @@ permalink: /Credentials/
 
 <p> Our Corporate ID number: U74900KA2014PTC072980 </p>
 
-<p>Our GST number: 29AAECV7008C1ZF </p>
+<p> Our GST number: 29AAECV7008C1ZF </p>
 
 <p> Our TIN number is: 29721188060 </p>
 
-<h1> Directors </h1>
+<h1> Listing of company Directors </h1>
+
+<p> R.Narasimha Swamy, Director ID: 06764125</p>
+<p> S.Sankaran, Director ID: 06764006</p>
+<p> B.N.Prahalad, Director ID: 06876216</p>
 
 
 <p> _________________________________________________________________________________________________________ </p>
