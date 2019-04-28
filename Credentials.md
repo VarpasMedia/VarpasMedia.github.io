@@ -16,7 +16,8 @@ permalink: /Credentials/
 <p> ________________________________________________________ </p>
 
 <p>                                                          </p>
-
+<div class="post-content e-content">
+<p style="color: blue">
 <h1>Few of the completion certificates issued by our clients. </h1>
 
 
