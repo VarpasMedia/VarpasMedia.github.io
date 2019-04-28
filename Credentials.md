@@ -10,7 +10,7 @@ permalink: /Credentials/
 
 <p> Our GST number: 29AAECV7008C1ZF </p>
 
-<p> Our TIN number is: 29721188060 </p>
+<p> Our TIN number: 29721188060 </p>
 
 <h1> Listing of company Directors </h1>
 
