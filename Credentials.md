@@ -12,6 +12,8 @@ permalink: /Credentials/
 
 <p> Our TIN number: 29721188060 </p>
 
+<h1>            </h1>
+
 <h1> Listing of company Directors </h1>
 
 <p> R.Narasimha Swamy, Director ID: 06764125</p>
