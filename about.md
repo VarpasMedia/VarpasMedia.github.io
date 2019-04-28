@@ -34,7 +34,7 @@ Languages: Tamil, English, Kannada and Hindi.
 Contact: Flat 201, Chamundi Crystal apartment, Bhagavati Layout, 18th cross, Hulimavu, Bengaluru, 560076.  
 Mobile: 8762192953/9845573679, varpasmedia@gmail.com
 
-<div class="post-content e-content">
+
 
 ### B.N. Prahlad
 B.N.Prahlad has served in reputed non Governmental organizations for almost two decades and has acquired rich experience while working in different capacities of the project management like material management, tender evaluation, site supervision, coordination etc. Brief details of his experience in this field are as follows:
@@ -69,3 +69,5 @@ Address:
 B.N.PRAHALAD, #301, 10th main, 3rd block, Jayanagar, Bengaluru, 560011,
 Mob:9448284601
 Email: bn.prahalad@gmail.com
+
+<div class="post-content e-content">
