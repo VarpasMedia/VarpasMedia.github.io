@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /Projects/
 ---
-
-### Auditorium
+<font size="5" face="georgia">
+Auditorium
 
 <font size="2" face="georgia">
 
@@ -67,9 +67,10 @@ permalink: /Projects/
     </tr>
 </table>
 
+<font size="5" face="georgia">
+Community radio station
 
-### Community radio station
-
+<font size="2" face="georgia">
 <table>
     <tr>
         <th>SL</th>
@@ -124,8 +125,9 @@ permalink: /Projects/
  </table>
 
 
-
-### e-Classroom and Lecture Halls
+<font size="5" face="georgia">
+e-Classroom and Lecture Halls
+<font size="3" face="georgia">
 <table>
 
     <tr>
