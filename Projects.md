@@ -6,7 +6,7 @@ permalink: /Projects/
 
 ### Auditorium
 
-
+<font size="2" face="georgia">
 
 <table>
     <tr>
