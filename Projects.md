@@ -127,7 +127,7 @@ Community radio station
 
 <font size="5" face="georgia">
 e-Classroom and Lecture Halls
-<font size="3" face="georgia">
+<font size="2" face="georgia">
 <table>
 
     <tr>
@@ -169,8 +169,9 @@ e-Classroom and Lecture Halls
 
 </table>
 
-
-### TV Studio projects
+<font size="5" face="georgia">
+TV Studio projects
+<font size="2" face="georgia">
 <table>
 
     <tr>
@@ -215,8 +216,9 @@ e-Classroom and Lecture Halls
 </table>
 
 
-
-### Miscellaneous projects
+<font size="5" face="georgia">
+Miscellaneous projects
+<font size="2" face="georgia">
 <table>
     
     <tr>
