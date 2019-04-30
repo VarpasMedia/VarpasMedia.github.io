@@ -49,9 +49,9 @@ B.N.Prahlad has served in reputed non Governmental organizations for almost two 
 
 18+ years as Project Manager in Rashtrothana Parishad, Bengaluru - a reputed not-for-profit, non Governmental organization with social service activities in the field of formal education, art, literature, Yoga, health care, community work etc in the state of Karnataka.  Following are his project management tasks:
 
-<li>Material management tasks of the projects which includes procurement, storage, transport, logistics etc.</li>
-<li>Co-ordination with various agencies of the project management viz architect, suppliers, vendor, contractor, management, Government agencies etc.</li>
-<li>Involvement in site selection, framing specification, budgeting, tendering etc</li>
+<li>Material management tasks of the projects viz procurement, storage, transport, logistics etc.</li>
+<li>Co-ordination with various agencies of the project management viz architect, suppliers, vendors, contractor, management, Government agencies etc.</li>
+<li>Involvement in the site selection, framing specification, budgeting, tendering etc</li>
 <li>Site visits during the course of project execution for monitoring and reporting.</li>
 <ul>
 
