@@ -12,7 +12,9 @@ permalink: /Credentials/
 
 <p> Our TIN number: 29721188060 </p>
 
-<p>            </p>
+<p>                  </p>
+<p>                  </p>
+<p>                  </p>
 
 <h1> Listing of Company Directors </h1>
 
