@@ -12,9 +12,7 @@ permalink: /Credentials/
 
 <p> Our TIN number: 29721188060 </p>
 
-<p> <time>{{ post.date | date: "%b %-d, %Y" }}</time></p>
-
-<h1>            </h1>
+<p>            </p>
 
 <h1> Listing of Company Directors </h1>
 
