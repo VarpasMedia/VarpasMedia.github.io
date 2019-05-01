@@ -16,7 +16,7 @@
 title: VARPAS MEDIA TECHNOLOGIES PVT LTD 
 email: varpasmedia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  First floor, 301, 10th Main, III Block Jayanagar, Bengaluru, 560011
+  First floor, 301, 10th Main, III Block, Jayanagar, Bengaluru, 560011
   Phone: 080-26487035, 9880197441, 8762892954
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://varpasmedia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
