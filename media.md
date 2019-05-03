@@ -35,14 +35,6 @@ permalink: /Media/
 <img src = "/Photos/BEC-6.jpg" border = "1" />
 <p></p>
 
-
-
-
-
-
-
-
-
 <p></p>
 <img src = "/Photos/MET-1.jpg" border = "1" />
 <p></p>
@@ -74,12 +66,16 @@ permalink: /Media/
 
 <p></p>
 <p></p>
-
 <img src = "/Photos/vvs-4.jpg" border = "1" />
-
 <p></p>
 <p></p>
 
+
+<p></p>
+<p></p>
+<img src = "/Photos/ECE-1.jpg" border = "1" />
+<p></p>
+<p></p>
 
 <p></p>
 
