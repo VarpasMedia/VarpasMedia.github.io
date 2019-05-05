@@ -13,6 +13,7 @@ projectFilesBackup/
 
 target/
 out/
+vendor/
 
 *.settings
 *.classpath
@@ -27,6 +28,7 @@ out/
 *.exe
 *.o
 *.so
+*.lock
 
 # Packages #
 ############
@@ -57,3 +59,9 @@ out/
 Icon?
 ehthumbs.db
 Thumbs.db
+Gemfile.lock
+gem_make.out
+Makefile
+*.lock
+vendor/bundle/extensions/x64-mingw32/2.6.0/http_parser.rb-0.6.0/gem_make.out
+vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser/Makefile
