@@ -50,8 +50,30 @@ permalink: /Media/
 
 <img src = "/Photos/MET-3.jpg" border = "1" />
 
+
+<img src = "/Photos/vvs-1.jpg" border = "1" />
+
+<p></p>
 <p></p>
 
+<img src = "/Photos/vvs-2.jpg" border = "1" />
+
+<p> </p>
+<p></p>
+<img src = "/Photos/vvs-3.jpg" border = "1" />
+
+<p></p>
+<p></p>
+<img src = "/Photos/vvs-4.jpg" border = "1" />
+<p></p>
+<p></p>
+
+
+
+
+<p></p>
+
+<p>Photos of the Seminar halls/e-Class room projects. </p>
 
 <p></p>
 <p></p>
@@ -84,22 +106,37 @@ permalink: /Media/
 <p></p>
 
 
-<img src = "/Photos/vvs-1.jpg" border = "1" />
-
+<p></p>
+<p></p>
+<img src = "/Photos/BEC_Classroom_1" border = "1" />
 <p></p>
 <p></p>
 
-<img src = "/Photos/vvs-2.jpg" border = "1" />
+<p></p>
+<p></p>
+<img src = "/Photos/BEC_Classroom_2" border = "1" />
+<p></p>
+<p></p>
 
-<p> </p>
 <p></p>
-<img src = "/Photos/vvs-3.jpg" border = "1" />
+<p></p>
+<img src = "/Photos/BEC_Classroom_3" border = "1" />
+<p></p>
+<p></p>
+
 
 <p></p>
 <p></p>
-<img src = "/Photos/vvs-4.jpg" border = "1" />
+<img src = "/Photos/BEC_Classroom_4" border = "1" />
 <p></p>
 <p></p>
+
+<p></p>
+<p></p>
+<img src = "/Photos/BEC_Classroom_5" border = "1" />
+<p></p>
+<p></p>
+
 
 
 
