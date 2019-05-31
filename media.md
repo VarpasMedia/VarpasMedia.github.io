@@ -108,32 +108,32 @@ permalink: /Media/
 
 <p></p>
 <p></p>
-<img src = "/Photos/BEC_Classroom_1" border = "1" />
+<img src = "/Photos/BEC_Classroom_1.jpg" border = "1" />
 <p></p>
 <p></p>
 
 <p></p>
 <p></p>
-<img src = "/Photos/BEC_Classroom_2" border = "1" />
+<img src = "/Photos/BEC_Classroom_2.jpg" border = "1" />
 <p></p>
 <p></p>
 
 <p></p>
 <p></p>
-<img src = "/Photos/BEC_Classroom_3" border = "1" />
+<img src = "/Photos/BEC_Classroom_3.jpg" border = "1" />
 <p></p>
 <p></p>
 
 
 <p></p>
 <p></p>
-<img src = "/Photos/BEC_Classroom_4" border = "1" />
+<img src = "/Photos/BEC_Classroom_4.jpg" border = "1" />
 <p></p>
 <p></p>
 
 <p></p>
 <p></p>
-<img src = "/Photos/BEC_Classroom_5" border = "1" />
+<img src = "/Photos/BEC_Classroom_5.jpg" border = "1" />
 <p></p>
 <p></p>
 
