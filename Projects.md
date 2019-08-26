@@ -81,20 +81,31 @@ Community radio station
 
     <tr>
          <th>1</th>
-        <td>"Janadhwani", Swami Vivekananda Youth Movement, Saragur, Karnataka</td>
+        <td> Namma Dhwani</td>
+        <td> Myrada, Budikote, Karnataka</td>
+        <td> Total refurbishing of the existing Community radio station with add-on Internet radio</td>
+        <td> June 2019 to August 2019</td>
+    </tr>
+
+    <tr>
+        <th>2</th>
+        <td> Janadhwani</td>
+        <td> Swami Vivekananda Youth Movement, Saragur, Karnataka</td>
         <td>Refurbishing of the existing Community radio station</td>
         <td>Feb 2019 to April 2019</td>
     </tr>
 
     <tr>
-	<th>2</th>
+	<th>3</th>
+        <td> BEC Radio</td>
         <td>Basaveshwara Engineering College, Bagalkot</td>
         <td>Consultancy and project execution for the establishment of Community radio station including Internet Radio station</td>
         <td>Nov 2018 to April 2019</td>
     </tr>
 
    <tr>
-	<th>3</th>
+	<th>4</th>
+        <td>MET Radio</td>
         <td>Maharaja Education Trust, Mysuru</td>
         <td>Consultancy and project execution for the establishment of the Community radio station</td>
         <td>June 2018-December 2018</td>
@@ -102,21 +113,24 @@ Community radio station
 
 
    <tr>
-	<th>4</th>
+	<th>5</th>
+	<td>Radio Kotagiri </td>
         <td>Keystone Foundation, Kotagiri, Tamil Nadu</td>
         <td>Replacing the defective Broadcast antenna and related works</td>
         <td>December 2018</td>
     </tr>
 
     <tr>
-        <th>5</th>
+        <th>6</th>
+	<td>Panchajanya</td>
 	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
         <td>Consultancy and project execution for the establishment of Community radio station including Internet Radio</td>
         <td>June-Oct 2017</td>
     </tr>
 
     <tr>
-	<th>6</th>
+	<th>7</th>
+	<td>Namma Nadi</td>
         <td>Narayana Hrudayalaya, Bengaluru</td>
         <td>Establishment of the Internet Radio station to supplement the existing Community radio</td>
         <td>June-Oct 2017</td>
