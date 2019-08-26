@@ -83,15 +83,15 @@ Community radio station
          <th>1</th>
         <td> Namma Dhwani</td>
         <td> Myrada, Budikote, Karnataka</td>
-        <td> Total refurbishing of the existing Community radio station with add-on Internet radio</td>
+        <td> Total refurbishing of the existing Community radio station with add-on Internet Radio</td>
         <td> June 2019 to August 2019</td>
     </tr>
 
     <tr>
         <th>2</th>
-        <td> Janadhwani</td>
+        <td> Jana Dhwani</td>
         <td> Swami Vivekananda Youth Movement, Saragur, Karnataka</td>
-        <td>Refurbishing of the existing Community radio station</td>
+        <td>Refurbishing of the existing Community radio station with add-on Internet Radio</td>
         <td>Feb 2019 to April 2019</td>
     </tr>
 
@@ -99,7 +99,7 @@ Community radio station
 	<th>3</th>
         <td> BEC Radio</td>
         <td>Basaveshwara Engineering College, Bagalkot</td>
-        <td>Consultancy and project execution for the establishment of Community radio station including Internet Radio station</td>
+        <td>Consultancy and complete project execution for the establishment of Community radio station along with the Internet Radio station</td>
         <td>Nov 2018 to April 2019</td>
     </tr>
 
@@ -107,7 +107,7 @@ Community radio station
 	<th>4</th>
         <td>MET Radio</td>
         <td>Maharaja Education Trust, Mysuru</td>
-        <td>Consultancy and project execution for the establishment of the Community radio station</td>
+        <td>Consultancy and complete project execution for the establishment of the Community radio station</td>
         <td>June 2018-December 2018</td>
     </tr>
 
@@ -124,7 +124,7 @@ Community radio station
         <th>6</th>
 	<td>Panchajanya</td>
 	<td>Vivkekananda Vidya Vardhaka Sangha, Puttur</td>
-        <td>Consultancy and project execution for the establishment of Community radio station including Internet Radio</td>
+        <td>Consultancy and complete project execution for the establishment of Community radio station along with the Internet Radio</td>
         <td>June-Oct 2017</td>
     </tr>
 
