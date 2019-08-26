@@ -162,15 +162,15 @@ e-Classroom and Lecture Halls
     <tr>
         <th>2</th>
 	<td>Chairman, Dept of Electrical communication engg, Indian Institute of Science, Bengaluru</td>
-        <td>Project execution for the Acoustics, installed audio and Video Projection in 2 class rooms</td>
-        <td>June-Dec 2018</td>
+        <td>Project execution for the Acoustics, Installed audio, Video conferncing and Video Projection in 3 Lecture halls/Meeting room</td>
+        <td>June 2018-August 2019</td>
     </tr>
 
     <tr>
         <th>3</th>
 	<td>The Mythic Society Bengaluru</td>
-        <td>Project execution for the acoustics, installed audio and Video Projection at Centenary Hall</td>
-        <td>June 2018 to April 2019</td>
+        <td>Project execution for the Acoustics, Installed audio and Video Projection at the Centenary Hall</td>
+        <td>June 2018 to August 2019</td>
     </tr>
 
 
