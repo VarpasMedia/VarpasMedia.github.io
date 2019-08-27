@@ -177,7 +177,7 @@ e-Classroom and Lecture Halls
     <tr>
         <th>4</th>
 	<td>The Mythic Society, Bengaluru</td>
-        <td>Installed audio at the Daly Hall</td>
+        <td>Installed audio and Video projection at the Daly Memorial Hall</td>
         <td>June-Oct 2018</td>
     </tr>
 
