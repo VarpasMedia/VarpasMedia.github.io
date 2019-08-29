@@ -18,7 +18,7 @@ Auditorium
 
  	<tr>
 	<th>1</th>
-        <td>Divyajyoti Vidya Kendra, Nelamangala</td>
+        <td>Divyajyothi Vidya Kendra, Nelamangala</td>
         <td>Complete Project management consultancy for the establishment of Tagore Cultural Complex which includes a 160 seater auditorium at JP Nagar 9th Phase, Bengaluru</td>
         <td> From Jan 2018.  Ongoing</td>
     	</tr>
