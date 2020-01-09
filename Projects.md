@@ -24,9 +24,15 @@ Auditorium
     	</tr>
 
 
-
  	<tr>
 	<th>2</th>
+        <td>Basaveshwar Engineering College (Autonomous), Bagalkot, Karnataka</td>
+        <td>Supply, installation and training on Acoustics, Installed Audio, Stage Drapery, Video Surveillance, Fire Alarm/protection etc with total system integration for a 1,500 seater Auditorium</td>
+        <td> From Jan 2020.  Ongoing</td>
+    	</tr>
+
+ 	<tr>
+	<th>3</th>
         <td>Rashtrakavi M Govinda Pai Memorial Trust, Manjeshwara</td>
         <td>Consultancy for the Electrical installation, acoustics, installed audio, stage lighting, seating, minor civil engineering works etc for Bhuvanika auditorium of Gilivindu project</td>
         <td>From Jan 2018. Ongoing</td>
@@ -35,14 +41,14 @@ Auditorium
 
 
     	<tr>
-	<th>3</th>
+	<th>4</th>
         <td>Mysuru Nirmiti Kendra</td>
         <td>Consultancy for the Acoustics, Stage lighting and Installed audio for Ambedkar Bhavan HD Kote</td>
         <td>June-Oct 2018</td>
     	</tr>
 
     	<tr>
-	<th>4</th>
+	<th>5</th>
         <td>Dept of Kannada and Culture, Govt of Karnataka</td>
         <td>Consultancy and preparation of the Detailed Project Report for carrying out complete renovation of interior works which includes 
 		acoustics, Installed audio, stage lighting, seating, ventilation, power supply arrangement, minor civil engineering works etc for 
@@ -52,7 +58,7 @@ Auditorium
     	</tr>
 
     	<tr>
-	<th>5</th>
+	<th>6</th>
         <td>Dept of Kannada and Culture, Govt of Karnataka</td>
         <td>Consultancy and preparation of the Detailed Project Report for renovation of Nayana Auditorium, Kannada Bhavana, Bengaluru</td>
         <td> April 2018-May 2018</td>
@@ -60,7 +66,7 @@ Auditorium
 
 
     <tr>
-	<th>6</th>
+	<th>7</th>
         <td>Mysuru Urban Development Authority</td>
         <td>Consultancy and preparation of the DPR for the Acoustics, Stage Lighting, Installed audio, seating, CCTV and Fire alarm for 2,000 seater, Ambedkar Bhavan at Mysuru</td>
         <td>Jan - March 2017</td>
@@ -153,29 +159,36 @@ e-Classroom and Lecture Halls
     </tr>
 
     <tr>
+
 	<th>1</th>
+        <td>Honourary Secretary, Janseva Trust, Bengaluru</td>
+        <td>Acoustic treatment, carpentry work, Pro Audio/Video for 3 numbers of Lecture Halls at Janaseva Vidya Kendra, Magadi road, Bengaluru</td>
+        <td>Nov 2019-March 2020, presently ongoing</td>
+
+
+	<th>2</th>
         <td>Principal, Basaveshwar Enginenering College, Bagalkot</td>
         <td>Acoustic treatment for 7 numbers of classrooms/seminar halls</td>
         <td>Jan-March 2019</td>
     </tr>
 
     <tr>
-        <th>2</th>
+        <th>3</th>
 	<td>Chairman, Dept of Electrical communication engg, Indian Institute of Science, Bengaluru</td>
         <td>Project execution for the Acoustics, Installed audio, Video conferncing and Video Projection in 3 Lecture halls/Meeting room</td>
         <td>June 2018-August 2019</td>
     </tr>
 
     <tr>
-        <th>3</th>
+        <th>4</th>
 	<td>The Mythic Society Bengaluru</td>
-        <td>Project execution for the Acoustics, Installed audio and Video Projection at the Centenary Hall</td>
+        <td>Project execution for the Acoustics, Installed audio and Video Projection at Dally Hall and Centenary Hall</td>
         <td>June 2018 to August 2019</td>
     </tr>
 
 
     <tr>
-        <th>4</th>
+        <th>5</th>
 	<td>The Mythic Society, Bengaluru</td>
         <td>Installed audio and Video projection at the Daly Memorial Hall</td>
         <td>June-Oct 2018</td>
