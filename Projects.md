@@ -157,10 +157,11 @@ e-Classroom and Lecture Halls
         <th>Project</th>
         <th>Period</th>
     </tr>
-
+    
+    <tr>
   	<th>1</th>
         <td>Honourary Secretary, Janseva Trust, Bengaluru</td>
-        <td>Acoustic treatment, carpentry work, Pro Audio/Video for 3 numbers of Lecture Halls at Janaseva Vidya Kendra, Magadi road, Bengaluru</td>
+        <td>Acoustic treatment, carpentry work, Pro Audio/Video in Yadava Niketana, Vidyaranya Mantapa and West Block (New) Lecture Halls at Janaseva Vidya Kendra, Magadi road, Bengaluru</td>
         <td>Nov 2019-March 2020, presently ongoing</td>
     </tr>
 
