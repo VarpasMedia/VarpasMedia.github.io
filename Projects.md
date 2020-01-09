@@ -164,7 +164,7 @@ e-Classroom and Lecture Halls
         <td>Honourary Secretary, Janseva Trust, Bengaluru</td>
         <td>Acoustic treatment, carpentry work, Pro Audio/Video for 3 numbers of Lecture Halls at Janaseva Vidya Kendra, Magadi road, Bengaluru</td>
         <td>Nov 2019-March 2020, presently ongoing</td>
-
+    </tr>
 
 	<th>2</th>
         <td>Principal, Basaveshwar Enginenering College, Bagalkot</td>
