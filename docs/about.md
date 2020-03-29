@@ -1,6 +1,8 @@
 ﻿---
 layout: page
 title: About us
+category: test
+order: 1
 permalink: /about/
 ---
 
