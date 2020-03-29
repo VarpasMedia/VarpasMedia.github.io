@@ -2,6 +2,8 @@
 layout: page
 title: Test
 permalink: /Test/
+permalink: /Test1/
+
 ---
 
 ### R.Narasimha Swamy
