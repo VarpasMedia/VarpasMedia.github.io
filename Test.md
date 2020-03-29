@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: Contact
-permalink: /Contact/
+title: Test
+permalink: /Test/
 ---
 
 ### R.Narasimha Swamy
