@@ -8,6 +8,17 @@ Auditorium
 
 <font size="2" face="georgia">
 
+<main>
+  
+<ul>
+    
+  <li><a href="product-1.html">Product 1</a></li>
+    
+   <li><a href="product-2.html">Product 2</a></li>
+  
+  </ul>
+</main>
+
 <table>
     <tr>
 	<th>SL</th>
