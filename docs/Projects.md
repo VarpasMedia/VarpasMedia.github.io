@@ -12,9 +12,9 @@ Auditorium
   
 <ul>
     
-  <li><a href="product-1.html">Product 1</a></li>
+  <li><a href="Auditorium.html">Auditorium</a></li>
     
-   <li><a href="product-2.html">Product 2</a></li>
+   <li><a href="Lecture Hall.html">Lecture Hall </a></li>
   
   </ul>
 </main>
