@@ -8,16 +8,7 @@ Auditorium
 
 <font size="2" face="georgia">
 
-<main>
-  
-<ul>
-    
-  <li><a href="Auditorium.html">Auditorium</a></li>
-    
-   <li><a href="Lecture Hall.html">Lecture Hall </a></li>
-  
-  </ul>
-</main>
+
 
 <table>
     <tr>
