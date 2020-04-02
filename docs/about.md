@@ -62,7 +62,6 @@ Some of the important projects executed by him are as follows.
 
 <ul/>
 
-</p>
 
 Personal details: Age 58
 Likes: Interior decoration, public relations, Indian Classical music and performing arts.
@@ -70,5 +69,7 @@ Address:
 B.N.PRAHALAD, #301, 10th main, 3rd block, Jayanagar, Bengaluru, 560011,
 Mob:9448284601
 Email: bn.prahalad@gmail.com
+
+</p>
 
 <div class="post-content e-content">
