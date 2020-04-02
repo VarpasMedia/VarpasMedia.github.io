@@ -33,7 +33,7 @@ Languages: Tamil, English, Kannada and Hindi.
 Contact: Flat 201, Chamundi Crystal apartment, Bhagavati Layout, 18th cross, Hulimavu, Bengaluru, 560076.  
 Mobile: 8762192953/9845573679, varpasmedia@gmail.com
 
-</p>
+
 
 ### B.N. Prahlad
  <p align="justify">
