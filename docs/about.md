@@ -62,7 +62,7 @@ Some of the important projects executed by him are as follows.
 
 <ul/>
 
-
+<p align="justify">
 <li>Personal details: Age 58
 Likes: Interior decoration, public relations, Indian Classical music and performing arts.
 Address:
