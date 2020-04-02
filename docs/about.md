@@ -70,4 +70,3 @@ B.N.PRAHALAD, #301, 10th main, 3rd block, Jayanagar, Bengaluru, 560011,
 Mob:9448284601
 Email: bn.prahalad@gmail.com
 </li>
-</p>
