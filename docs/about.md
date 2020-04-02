@@ -72,4 +72,3 @@ Email: bn.prahalad@gmail.com
 </li>
 
 
-<div class="post-content e-content">
