@@ -60,7 +60,7 @@ Some of the important projects executed by him are as follows.
 <li>Rashtrotthana Vidya Kendra, Nittuvalli, Davanagere</li>
 <li>Rashtrotthana Vidya Kendra, Neralakatti, Dharwad</li>
 
-<ul>
+<ul/>
 
 </p>
 
