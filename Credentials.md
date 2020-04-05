@@ -42,3 +42,16 @@ permalink: /Credentials/
 <p></p>
 <img src = "/Photos/CC by iNurture.jpg" border = "1" />
 <p></p>
+
+<p></p>
+<img src = "/Photos/Completion certificate from BEC.jpg" border = "1" />
+<p></p>
+
+<img src = "/Photos/Completion certificate from Myrada.jpg" border = "1" />
+<p></p>
+
+<img src = "/Photos/Completion certificate from SVYM.jpg" border = "1" />
+<p></p>
+
+<img src = "/Photos/Completion certificate from MET.jpg" border = "1" />
+<p></p>
