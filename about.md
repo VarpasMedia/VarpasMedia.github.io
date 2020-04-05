@@ -1,6 +1,8 @@
 ﻿---
 layout: page
 title: About us
+category: test
+order: 1
 permalink: /about/
 ---
 
@@ -8,7 +10,7 @@ permalink: /about/
 
  <p align="justify">
 
-A technocrat with 39 years of experience in the field of Professional audio and video, acoustics and Radio/TV broadcasting.   Post retirement, along with his friends, he founded Varpas Media Technologies Pvt Ltd who provide consultancy and project execution services in the field of  Acoustics, Professional Audio/video engineering for auditoriums, seminar halls, e-Class rooms, Radio/TV/Cable/Satellite Broadcasting and Skill development etc for Government bodies, corporate entities, Universities etc.  Presently, he is one of the Directors of this company.  He is also a resource person for training on subjects connected with acoustics, audio, Radio broadcast engineering, solid state transmitters, cable TV etc.    He holds post graduate degree in Electrical Communication Engineering from Indian Institute of Science, Bengaluru.  Post retirement, he has acquired a Post Graduation degree in Philosophy from IGNOU.  
+A technocrat with 42 years of experience in the field of Professional audio and video, acoustics and Radio/TV broadcasting.   Post retirement, along with his friends, he founded Varpas Media Technologies Pvt Ltd who provide consultancy and project execution services in the field of  Acoustics, Professional Audio/video engineering for auditoriums, seminar halls, e-Class rooms, FM and Community Radio, TV/Cable/Satellite Broadcasting and Skill development etc for Government bodies, corporate entities, Universities etc.  Presently, he is one of the Directors of this company.  He is also a resource person for training on subjects connected with acoustics, audio, Radio broadcast engineering, solid state transmitters, cable TV etc.    He holds post graduate degree in Electrical Communication Engineering from Indian Institute of Science, Bengaluru.  Post retirement, he has acquired a Post Graduation degree in Philosophy from IGNOU.  
 
 
 </p>
@@ -31,7 +33,7 @@ Languages: Tamil, English, Kannada and Hindi.
 Contact: Flat 201, Chamundi Crystal apartment, Bhagavati Layout, 18th cross, Hulimavu, Bengaluru, 560076.  
 Mobile: 8762192953/9845573679, varpasmedia@gmail.com
 
-</p>
+
 
 ### B.N. Prahlad
  <p align="justify">
@@ -58,15 +60,13 @@ Some of the important projects executed by him are as follows.
 <li>Rashtrotthana Vidya Kendra, Nittuvalli, Davanagere</li>
 <li>Rashtrotthana Vidya Kendra, Neralakatti, Dharwad</li>
 
-<ul>
+<ul/>
 
-</p>
 
-Personal details: Age 58
+<li>Personal details: Age 58,
 Likes: Interior decoration, public relations, Indian Classical music and performing arts.
 Address:
 B.N.PRAHALAD, #301, 10th main, 3rd block, Jayanagar, Bengaluru, 560011,
 Mob:9448284601
 Email: bn.prahalad@gmail.com
-
-<div class="post-content e-content">
+</li>
