@@ -10,6 +10,15 @@
 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> 
 
+
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
 <!--
    {%- assign default_paths = site.pages | map: "path" -%} 
     {%- assign page_paths = site.header_pages | default: default_paths -%} 
