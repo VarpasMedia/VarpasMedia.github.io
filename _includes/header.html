@@ -11,8 +11,8 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> 
 
 <!--
-   {%- assign default_paths = site.pages | map: "path" -%} <!-- Puts the menu bar -->
-    {%- assign page_paths = site.header_pages | default: default_paths -%} <!-- Puts the menu bar -->
+   {%- assign default_paths = site.pages | map: "path" -%} 
+    {%- assign page_paths = site.header_pages | default: default_paths -%} 
 
 -->
     {%- if page_paths -%}
