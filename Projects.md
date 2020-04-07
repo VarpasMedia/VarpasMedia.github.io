@@ -173,7 +173,8 @@ e-Classroom and Lecture Halls
         <td>Acoustic treatment, carpentry work, Pro Audio/Video in Yadava Niketana, Vidyaranya Mantapa and West Block (New) Lecture Halls at Janaseva Vidya Kendra, Magadi road, Bengaluru</td>
         <td>Nov 19-March 20. Completed</td>
     </tr>
-
+     
+    <tr>
 	<th>3</th>
         <td>Principal, Basaveshwar Enginenering College, Bagalkot</td>
         <td>Acoustic treatment for 7 numbers of classrooms/seminar halls</td>
