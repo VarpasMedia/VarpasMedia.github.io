@@ -162,26 +162,33 @@ e-Classroom and Lecture Halls
     
     <tr>
   	<th>1</th>
+        <td>Karnataka Public School, Hosayelanadu, Hiriyur taluk</td>
+        <td>Acoustic treatment, carpentry work, Pro Audio/Video projection in the Training Hall</td>
+        <td>March 20. Ongoing</td>
+    </tr>
+
+    <tr>
+  	<th>2</th>
         <td>Honourary Secretary, Janseva Trust, Bengaluru</td>
         <td>Acoustic treatment, carpentry work, Pro Audio/Video in Yadava Niketana, Vidyaranya Mantapa and West Block (New) Lecture Halls at Janaseva Vidya Kendra, Magadi road, Bengaluru</td>
         <td>Nov 19-March 20. Completed</td>
     </tr>
 
-	<th>2</th>
+	<th>3</th>
         <td>Principal, Basaveshwar Enginenering College, Bagalkot</td>
         <td>Acoustic treatment for 7 numbers of classrooms/seminar halls</td>
         <td>Jan-March 19. Completed</td>
     </tr>
 
     <tr>
-        <th>3</th>
+        <th>4</th>
 	<td>Chairman, Dept of Electrical communication engg, Indian Institute of Science, Bengaluru</td>
         <td>Project execution for the Acoustics, Installed audio, Video conferncing and Video Projection in 3 Lecture halls/Meeting room</td>
         <td>June 18-August 19. Completed</td>
     </tr>
 
     <tr>
-        <th>4</th>
+        <th>5</th>
 	<td>The Mythic Society Bengaluru</td>
         <td>Project execution for the Acoustics, Installed audio and Video Projection at Centenary Hall</td>
         <td>June 18-August 19. Completed</td>
@@ -189,7 +196,7 @@ e-Classroom and Lecture Halls
 
 
     <tr>
-        <th>5</th>
+        <th>6</th>
 	<td>The Mythic Society, Bengaluru</td>
         <td>Installed audio and Video projection at the Daly Memorial Hall</td>
         <td>June-Oct 18. Completed</td>
@@ -266,7 +273,7 @@ Miscellaneous projects
         </tr>
 
 	<tr>
-        <th>1</th>
+        <th>2</th>
 	<td>University of Agricultural Sciences, Dharwad</td>
         <td> 3rd party inspection of the installed audio and stage lighting of the auditorium</td>
         <td>Sept 18. Completed</td>
@@ -274,28 +281,28 @@ Miscellaneous projects
 
 
 	<tr>
-        <th>2</th>
+        <th>3</th>
 	<td>Mysuru Nirmiti Kendra</td>
         <td> 3rd party inspection of the installed audio and Chairman/member delegate system of the Mysuru Zilla Parishad hall</td>
         <td>April 18. Completed</td>
         </tr>	
 
 	<tr>
-        <th>3</th>
+        <th>4</th>
 	<td>Swami Vivekananda Memorial Hospital, Swami Vivekananda Youth Movement, Saragur</td>
         <td> Acoustic treatment of Audiology Lab</td>
         <td>April 17. Completed</td>
         </tr>	
 
 	<tr>
-        <th>4</th>
+        <th>5</th>
 	<td>Mysore Consultants Pvt Ltd, Bengaluru</td>
         <td> Consultancy for Acoustic treatment of a private Drama theatre at JP Nagar, Bengaluru</td>
         <td>March 17. Completed</td>
         </tr>
 
 	<tr>
-        <th>5</th>
+        <th>6</th>
 	<td>Bruhat Bengaluru Mahanagara Palike (BBMP)</td>
         <td>PMC and preparation of the DPR for the establishment of 36 seater state-of-the art Call center including interiors, Electric power supply, Acoustics, Pro AV, HVAC, application software etc.</td>
         <td>Feb-June 17. Completed</td>
@@ -304,14 +311,14 @@ Miscellaneous projects
 
 
 	<tr>
-        <th>6</th>
+        <th>7</th>
 	<td>Indian Music Experience, Bengaluru</td>
         <td>Validation of DPR containing Pro AV components prepared by a private consultant for the establishment of 12 numbers of Music related Galleries </td>
         <td>July-Aug 2016. Completed</td>
         </tr>
 
 	<tr>
-        <th>7</th>
+        <th>8</th>
 	<td>Chairman, SERC, Indian Institute of Science, Bengaluru</td>
         <td>Interior works in the Department building </td>
         <td>April-May 2016. Completed</td>
